@@ -108,5 +108,4 @@ which means that the whole App uses the configuration stated in tsconfig.app.jso
 
         "types": ["jasmine", "node"]
         
-I will use jasmine for testing on nodejs environment.
 
